@@ -111,7 +111,13 @@ Quando houver múltiplas evidências ou possível conflito de vigência:
 
 O Dossiê organiza o estado vigente, mas não decide sozinho prioridade entre fontes.
 
-Nunca resolver divergência funcional por preferência, maior detalhamento, conveniência, aparência da interface, memória ou inferência.
+Nunca resolver divergência funcional por:
+- preferência;
+- maior detalhamento;
+- conveniência;
+- aparência da interface;
+- memória;
+- inferência.
 
 Se permanecer incompatibilidade material sem decisão confirmada, manter como **Divergente**.
 
